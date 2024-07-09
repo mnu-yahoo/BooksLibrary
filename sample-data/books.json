@@ -306,5 +306,62 @@
     "Publisher": "Packt",
     "Year": 2023,
     "Subject": "Blazor"
+  },
+  {
+    "ID": 44,
+    "Title": "Algorithmic Thinking A Problem-Based Introduction",
+    "Publisher": "No Strach",
+    "Year": 2021,
+    "Subject": "Algorithms"
+  },
+  {
+    "ID": 45,
+    "Title": "Learning Algorithms Through Programming and Puzzle Solving",
+    "Publisher": "Active Learning Technologies",
+    "Year": 2018,
+    "Subject": "Algorithms"
+  },
+  {
+    "ID": 46,
+    "Title": "Learning algorithms a programmers guide to writing better code",
+    "Publisher": "O’Reilly",
+    "Year": 2021,
+    "Subject": "Algorithms"
+  },
+  {
+    "ID": 47,
+    "Title": "Beginners Guide to Code Algorithms Experiments to Enhance Productivity and Solve Problems",
+    "Publisher": "CRC Press",
+    "Year": 2022,
+    "Subject": "Algorithms"
+  },
+  {
+    "ID": 48,
+    "Title": "An introduction to 68000 assembly language",
+    "Publisher": "Bernard Babani",
+    "Year": 1986,
+    "Subject": "Assembly"
+  },
+  {
+    "ID": 49,
+    "Title": "Introduction to 80x86 Assembly Language and Computer Architecture",
+    "Publisher": "Jones and Bartlett Publishers",
+    "Year": 2011,
+    "Subject": "Assembly"
+  },
+  {
+    "ID": 50,
+    "Title": "Mastering Amiga Assembler",
+    "Publisher": "Bruce Smith Books",
+    "Year": 1992,
+    "Subject": "Assembly"
+  },
+  {
+    "ID": 51,
+    "Title": "Assembly Language for x86 Processors",
+    "Publisher": "Pearson",
+    "Year": 2015,
+    "Subject": "Assembly"
   }
 ]
+
