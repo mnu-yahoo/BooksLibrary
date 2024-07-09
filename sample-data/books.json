@@ -131,5 +131,180 @@
     "Publisher": "Packt",
     "Year": 2010,
     "Subject": "C#"
+  },
+  {
+    "ID": 19,
+    "Title": "Pro C# 9 with .NET 5: Foundational Principles and Practices in Programming",
+    "Publisher": "APress",
+    "Year": 2021,
+    "Subject": "C#"
+  },
+  {
+    "ID": 20,
+    "Title": "Agile Principles, Patterns, and Practices in C#",
+    "Publisher": "Prentice Hall",
+    "Year": 2006,
+    "Subject": "C#"
+  },
+  {
+    "ID": 21,
+    "Title": "Practical Test-Driven Development using C# 7",
+    "Publisher": "Packt",
+    "Year": 2018,
+    "Subject": "C#"
+  },
+  {
+    "ID": 22,
+    "Title": "Assembly language for x86 processors",
+    "Publisher": "Pearson",
+    "Year": 2015,
+    "Subject": "C#"
+  },
+  {
+    "ID": 23,
+    "Title": "Clean Agile Back to Basics",
+    "Publisher": "Addison-Wesley",
+    "Year": 2019,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 24,
+    "Title": "Creating Mobile Apps with Xamarin.Forms",
+    "Publisher": "MsPress",
+    "Year": 2016,
+    "Subject": "Xamarin"
+  },
+  {
+    "ID": 25,
+    "Title": "Mastering Windows Presentation Foundation",
+    "Publisher": "Packt",
+    "Year": 2017,
+    "Subject": "WPF"
+  },
+  {
+    "ID": 26,
+    "Title": "Make: Electronics",
+    "Publisher": "O’Reilly",
+    "Year": 2009,
+    "Subject": "Electronics"
+  },
+  {
+    "ID": 27,
+    "Title": "Electronic For Dummies 3e édition",
+    "Publisher": "FIRST Edition",
+    "Year": 2017,
+    "Subject": "Electronics"
+  },
+  {
+    "ID": 28,
+    "Title": "How to Hack Computers A Guide to Hacking Computers for Beginners",
+    "Publisher": "Joel Tope",
+    "Year": 2015,
+    "Subject": "Hacking"
+  },
+  {
+    "ID": 29,
+    "Title": "Head First C# Fourth Edition",
+    "Publisher": "O’Reilly",
+    "Year": 2021,
+    "Subject": "C#"
+  },
+  {
+    "ID": 30,
+    "Title": "Functional Programming in C# How to write better code",
+    "Publisher": "Manning",
+    "Year": 2018,
+    "Subject": "C#"
+  },
+  {
+    "ID": 31,
+    "Title": "Professional Functional Programming in C#: Classic Programming",
+    "Publisher": "Wrox",
+    "Year": 2011,
+    "Subject": "C#"
+  },
+  {
+    "ID": 32,
+    "Title": "Blazor a beginners guide",
+    "Publisher": "Telerik",
+    "Year": 2020,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 33,
+    "Title": "Blazor-for-ASP-NET-Web-Forms-Developers",
+    "Publisher": "MsPress",
+    "Year": 2022,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 34,
+    "Title": "Building Modern Web Applications with ASP.NET Core Blazor",
+    "Publisher": "BpBOnline",
+    "Year": 2023,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 35,
+    "Title": "Learning Blazor",
+    "Publisher": "O’Reilly",
+    "Year": 2022,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 36,
+    "Title": "Microsoft Blazor Building Web Applications in .NET 6 and Beyond",
+    "Publisher": "APress",
+    "Year": 2022,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 37,
+    "Title": "Amiga Assembly Language Programming",
+    "Publisher": "TAB Books",
+    "Year": 1987,
+    "Subject": "Amiga"
+  },
+  {
+    "ID": 38,
+    "Title": "Introdcution to the Commodore Amiga 500",
+    "Publisher": "Commodore",
+    "Year": 1987,
+    "Subject": "Amiga"
+  },
+  {
+    "ID": 39,
+    "Title": "Art Of Intel x86 Assembly",
+    "Publisher": "?",
+    "Year": 1990,
+    "Subject": "Assembly"
+  },
+  {
+    "ID": 40,
+    "Title": "ASSEMBLY LANGUAGE PROGRAMMING FOR THE  68000 FAMILY",
+    "Publisher": "John Wiley",
+    "Year": 1988,
+    "Subject": "Assembly"
+  },
+  {
+    "ID": 41,
+    "Title": "ASP.NET Core 5 for Beginners",
+    "Publisher": "Packt",
+    "Year": 2020,
+    "Subject": "ASP.NET"
+  },
+  {
+    "ID": 42,
+    "Title": "C# 11 and .NET 7 – Modern Cross-Platform Development Fundamentals",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "ASP.NET"
+  },
+  {
+    "ID": 43,
+    "Title": "Web-Development-with-Blazor-2nd-Edition",
+    "Publisher": "Packt",
+    "Year": 2023,
+    "Subject": "Blazor"
   }
 ]
