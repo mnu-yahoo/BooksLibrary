@@ -16,6 +16,26 @@
 }
 else
 {
+        <div>
+            <InputSelect @bind-Value="searchContext">
+                <option value="">
+                </option>
+                    <option checked="@(searchContext == "title")" 
+                        value="Titre">
+                    Exploration
+                </option>
+                    <option checked="@(searchContext == "subject")" 
+                        value="Sujet">
+                    Diplomacy
+                </option>
+                    <option checked="@(searchContext == "publisher")" 
+                        value="Editeur">
+                    Defense
+                </option>
+            </InputSelect>
+            <InputText @bind-Value="filter"/>
+            <button class="btn btn-primary" @onclick="SearchBooks">Search</button>
+        </div>
         <table class="table">
             <thead>
                 <tr>
@@ -43,9 +63,29 @@ else
 
 @code {
     private List<Book>? books;
+    private string filter;
+    private string searchContext;
 
     protected override async Task OnInitializedAsync()
     {
-        books = await booksService.GetBooks();
+        if (books == null)
+            books = await booksService.GetBooks();
+    }
+
+    protected async void SearchBooks()
+    {
+        if (string.IsNullOrWhiteSpace(filter))
+        {
+            books = await booksService.GetBooks();
+        }
+        else
+        {
+            if (string.IsNullOrWhiteSpace(searchContext))
+            {
+                searchContext = "title";
+            }
+            books = await booksService.GetBooks(filter, searchContext);
+        }
+        StateHasChanged();
     }
 }
