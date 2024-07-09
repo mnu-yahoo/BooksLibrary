@@ -19,5 +19,33 @@
     "Publisher": "Red Gate",
     "Year": 2018,
     "Subject": "SQL"
+  },
+  {
+    "ID": 3,
+    "Title": "Beginning T-SQL A Step-by-Step Approach",
+    "Publisher": "APress",
+    "Year": 2021,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 4,
+    "Title": "Exam Ref 70-761 Querying Data with Transact-SQL",
+    "Publisher": "MsPress",
+    "Year": 2017,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 5,
+    "Title": "Microsoft® SQL Server ® 2012 T-SQL Fundamentals",
+    "Publisher": "MsPress",
+    "Year": 2012,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 6,
+    "Title": "Murachs Sql Server 2019 for developers",
+    "Publisher": "Murach",
+    "Year": 2020,
+    "Subject": "SQL"
   }
 ]

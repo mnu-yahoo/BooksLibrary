@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BooksLibrary.dll": "sha256-XdfWHrNutzjnBpAgEmd+jiG5r1kvqwxwNeYzLGCE3dg=",
+      "BooksLibrary.dll": "sha256-o95iwA9bh73KYNOnqcCX9sxkd380wP5CLNhw8hKVCp0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-GvV0gCgSkJRhtvmJhvmKnA7IaKQMN6GU0lDvWSqoY\/4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-tvoKCAaJyv\/oaPHjZugYnTDcfbz3N5tPWC3NFou0Omc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-baKCtIss3QXEU6\/YaTn6w1StGtCNFjZPnqpLtne4B3w=",
