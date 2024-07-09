@@ -20,17 +20,17 @@ else
             <InputSelect @bind-Value="searchContext">
                 <option value="">
                 </option>
-                    <option checked="@(searchContext == "title")" 
-                        value="Titre">
-                    Exploration
+                    <option checked="@(searchContext == "title")"
+                        value="title">
+                    Titre
                 </option>
                     <option checked="@(searchContext == "subject")" 
-                        value="Sujet">
-                    Diplomacy
+                        value="subject">
+                    Sujet
                 </option>
                     <option checked="@(searchContext == "publisher")" 
-                        value="Editeur">
-                    Defense
+                        value="publisher">
+                    Editeur
                 </option>
             </InputSelect>
             <InputText @bind-Value="filter"/>
