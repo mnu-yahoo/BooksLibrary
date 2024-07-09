@@ -47,5 +47,89 @@
     "Publisher": "Murach",
     "Year": 2020,
     "Subject": "SQL"
+  },
+  {
+    "ID": 7,
+    "Title": "SQL Performance Explained",
+    "Publisher": "Markus Winand",
+    "Year": 2012,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 8,
+    "Title": "SQL For Dummies®, 8th Edition",
+    "Publisher": "FIRST Edition",
+    "Year": 2017,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 9,
+    "Title": "SQL Queries for Mere Mortals",
+    "Publisher": "Addison-Wesley",
+    "Year": 2018,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 10,
+    "Title": "SQL Server T-SQl Recipes Fourth Edition",
+    "Publisher": "APress",
+    "Year": 2016,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 11,
+    "Title": "SQL Antipatterns",
+    "Publisher": "The Pragmatic Bookshelf",
+    "Year": 2014,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 12,
+    "Title": "SQL Server Advanced Troubleshooting and Performance Tuning",
+    "Publisher": "O’Reilly",
+    "Year": 2021,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 13,
+    "Title": "T-SQL Querying",
+    "Publisher": "MsPress",
+    "Year": 2015,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 14,
+    "Title": "SQL Server 2017 Query Performance Tuning",
+    "Publisher": "APress",
+    "Year": 2018,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 15,
+    "Title": "Git Recipes A problem-solution recipe",
+    "Publisher": "APress",
+    "Year": 2013,
+    "Subject": "GIT"
+  },
+  {
+    "ID": 16,
+    "Title": "Web Development with Blazor",
+    "Publisher": "Packt",
+    "Year": 2021,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 17,
+    "Title": "Beginner’s Guide to Code Algorithms",
+    "Publisher": "CRC Press",
+    "Year": 2022,
+    "Subject": "Algorithms"
+  },
+  {
+    "ID": 18,
+    "Title": "Refactoring with Microsoft Visual Studio 2010",
+    "Publisher": "Packt",
+    "Year": 2010,
+    "Subject": "C#"
   }
 ]
