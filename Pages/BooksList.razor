@@ -1,5 +1,8 @@
 ﻿@page "/books"
-@inject HttpClient Http
+@inject NavigationManager NavManager
+@inject BooksLibrary.Services.BooksService booksService
+@using BooksLibrary.Data
+
 
 <PageTitle>Liste des livres</PageTitle>
 
@@ -39,23 +42,10 @@ else
 }
 
 @code {
-    private Book[]? books;
+    private List<Book>? books;
 
     protected override async Task OnInitializedAsync()
     {
-        books = await Http.GetFromJsonAsync<Book[]>("sample-data/books.json");
-    }
-
-    public class Book
-    {
-        public int ID { get; set; }
-
-        public string? Title { get; set; }
-
-        public string? Publisher { get; set; }
-
-        public int? Year { get; set; }
-
-        public string? Subject { get; set; }
+        books = await booksService.GetBooks();
     }
 }
