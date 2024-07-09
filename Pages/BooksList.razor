@@ -1,0 +1,61 @@
+﻿@page "/books"
+@inject HttpClient Http
+
+<PageTitle>Liste des livres</PageTitle>
+
+<h1>LIste de livres</h1>
+
+<p>Ce composant affiche la liste des livres disponibles.</p>
+
+@if (books == null)
+{
+        <p><em>Chargement...</em></p>
+}
+else
+{
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Titre</th>
+                    <th>Editeur</th>
+                    <th>Année</th>
+                    <th>Sujet</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var book in books)
+            {
+                        <tr>
+                            <td>@book.ID</td>
+                            <td>@book.Title</td>
+                            <td>@book.Publisher</td>
+                            <td>@book.Year</td>
+                            <td>@book.Subject</td>
+                        </tr>
+            }
+            </tbody>
+        </table>
+}
+
+@code {
+    private Book[]? books;
+
+    protected override async Task OnInitializedAsync()
+    {
+        books = await Http.GetFromJsonAsync<Book[]>("sample-data/books.json");
+    }
+
+    public class Book
+    {
+        public int ID { get; set; }
+
+        public string? Title { get; set; }
+
+        public string? Publisher { get; set; }
+
+        public int? Year { get; set; }
+
+        public string? Subject { get; set; }
+    }
+}

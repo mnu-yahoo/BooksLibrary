@@ -1,0 +1,23 @@
+﻿[
+  {
+    "ID": 0,
+    "Title": "Blazor in Action",
+    "Publisher": "Manning",
+    "Year": 2022,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 1,
+    "Title": "Blazor webassembly by example",
+    "Publisher": "Packt",
+    "Year": 2021,
+    "Subject": "Blazor"
+  },
+  {
+    "ID": 2,
+    "Title": "SQL Server Execution Plans",
+    "Publisher": "Red Gate",
+    "Year": 2018,
+    "Subject": "SQL"
+  }
+]
