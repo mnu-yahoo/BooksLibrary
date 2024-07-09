@@ -362,6 +362,159 @@
     "Publisher": "Pearson",
     "Year": 2015,
     "Subject": "Assembly"
+  },
+  {
+    "ID": 52,
+    "Title": "C 11 and .NET 7 – Modern Cross-Platform Development Fundamentals Start building websites and services with ASP.NET Core 7",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "ASP.NET"
+  },
+  {
+    "ID": 53,
+    "Title": "Building RESTful Web Services with .NET Core",
+    "Publisher": "Packt",
+    "Year": 2018,
+    "Subject": "ASP.NET"
+  },
+  {
+    "ID": 54,
+    "Title": ".NET Maui in Action",
+    "Publisher": "Manning",
+    "Year": 2023,
+    "Subject": ".NET MAUI"
+  },
+  {
+    "ID": 55,
+    "Title": "Apps and Services with .NET 7",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "C#"
+  },
+  {
+    "ID": 56,
+    "Title": "Building Microservices with .NET Core",
+    "Publisher": "Packt",
+    "Year": 2017,
+    "Subject": "C#"
+  },
+  {
+    "ID": 57,
+    "Title": "Building Maintainable Software, C# Edition",
+    "Publisher": "O’Reilly",
+    "Year": 2016,
+    "Subject": "C#"
+  },
+  {
+    "ID": 58,
+    "Title": "Building Maintainable Software, C# Edition",
+    "Publisher": "O’Reilly",
+    "Year": 2016,
+    "Subject": "C#"
+  },
+  {
+    "ID": 59,
+    "Title": "C# 9.0 in a Nutshell",
+    "Publisher": "O’Reilly",
+    "Year": 2021,
+    "Subject": "C#"
+  },
+  {
+    "ID": 60,
+    "Title": "Enterprise Application Architecture with .NET Core",
+    "Publisher": "Packt",
+    "Year": 2017,
+    "Subject": "C#"
+  },
+  {
+    "ID": 61,
+    "Title": "Enterprise Application Patterns using .NET MAUI",
+    "Publisher": "MsPress",
+    "Year": 2022,
+    "Subject": "C#"
+  },
+  {
+    "ID": 62,
+    "Title": "Exam Ref 70-483 Programming in C#, Second Edition",
+    "Publisher": "Pearson",
+    "Year": 2019,
+    "Subject": "C#"
+  },
+  {
+    "ID": 63,
+    "Title": "Functional C#",
+    "Publisher": "Packt",
+    "Year": 2016,
+    "Subject": "C#"
+  },
+  {
+    "ID": 64,
+    "Title": "Functional Programming in C#",
+    "Publisher": "Manning",
+    "Year": 2018,
+    "Subject": "C#"
+  },
+  {
+    "ID": 65,
+    "Title": "Hands-On Software Architecture with C# 8 and .NET Core 3",
+    "Publisher": "Packt",
+    "Year": 2019,
+    "Subject": "C#"
+  },
+  {
+    "ID": 66,
+    "Title": "Head First C# Fourth Edition",
+    "Publisher": "O’Reilly",
+    "Year": 2021,
+    "Subject": "C#"
+  },
+  {
+    "ID": 67,
+    "Title": "Learn C# Programming",
+    "Publisher": "Packt",
+    "Year": 2020,
+    "Subject": "C#"
+  },
+  {
+    "ID": 68,
+    "Title": "Mastering Windows Presentation Foundation",
+    "Publisher": "Packt",
+    "Year": 2017,
+    "Subject": "C#"
+  },
+  {
+    "ID": 69,
+    "Title": "Apprenez Microsoft SQL Server",
+    "Publisher": "Packt",
+    "Year": 2016,
+    "Subject": "SQL"
+  },
+  {
+    "ID": 70,
+    "Title": "Parallel Programming and Concurrency with C# 10 and .NET 6",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "C#"
+  },
+  {
+    "ID": 71,
+    "Title": "Pro C# 9 with .NET 5 Foundational Principles and Practices in Programming Tenth Edition",
+    "Publisher": "APress",
+    "Year": 2021,
+    "Subject": "C#"
+  },
+  {
+    "ID": 72,
+    "Title": "The C# Workshop",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "C#"
+  },
+  {
+    "ID": 73,
+    "Title": "Real-World Implementation of C# Design Patterns",
+    "Publisher": "Packt",
+    "Year": 2022,
+    "Subject": "C#"
   }
 ]
-
