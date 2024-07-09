@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BooksLibrary.dll": "sha256-09Qu8sa8Aqw1IHA2kM5Lb\/r3Y\/d537\/qNScNO5IPfPI=",
+      "BooksLibrary.dll": "sha256-XdfWHrNutzjnBpAgEmd+jiG5r1kvqwxwNeYzLGCE3dg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-GvV0gCgSkJRhtvmJhvmKnA7IaKQMN6GU0lDvWSqoY\/4=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-tvoKCAaJyv\/oaPHjZugYnTDcfbz3N5tPWC3NFou0Omc=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-baKCtIss3QXEU6\/YaTn6w1StGtCNFjZPnqpLtne4B3w=",
@@ -31,7 +31,7 @@
       "System.Net.Primitives.dll": "sha256-1S0C20a4sugukyyYb4pqJnEzyW3u\/cPDdAhcNa0UxKk=",
       "System.Private.CoreLib.dll": "sha256-rFblk\/pr1VmPB3V9vcXRDNDZ8S4SoWb5MHRaPtlY82Q=",
       "System.Private.Uri.dll": "sha256-H0wXjVdLq5MRIcl5bkM36EwhS3X2IEp862ewnx7W9oA=",
-      "System.Runtime.dll": "sha256-tb5B1WUxKZWSlwGd7M1tVksqVWPohnrJWtSvp9k4wRI=",
+      "System.Runtime.dll": "sha256-r\/QDP6GIFsaT6WvUBJEREk0zVOuTcXqAbAT3LlrjdcU=",
       "System.Runtime.InteropServices.JavaScript.dll": "sha256-Dw3V4OXQIp5ztr+2FlcejtuqiJ\/yOZ1mlh\/h1HVimM0=",
       "System.Text.Encodings.Web.dll": "sha256-kVB4lTg+oQyav\/B+6jgQckSkCqypLtSdieUtX9C97v0=",
       "System.Text.Json.dll": "sha256-u06JL6GqcAphMs05NDMbVbfMjIS\/0PK8c1sVo8vCP1Y="
