@@ -516,5 +516,124 @@
     "Publisher": "Packt",
     "Year": 2022,
     "Subject": "C#"
+  },
+  {
+    "ID": 74,
+    "Title": "Adaptive Code Agile coding with design patterns and SOLID principles 2nd Edition",
+    "Publisher": "MsPress",
+    "Year": 2017,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 75,
+    "Title": "Agile Software Development, Principles, Patterns, and Practices",
+    "Publisher": "Prentice Hall",
+    "Year": 2003,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 76,
+    "Title": "Agile Principles, Patterns, and Practices in C#",
+    "Publisher": "Prentice Hall",
+    "Year": 2006,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 77,
+    "Title": "Building Maintainable Software in C#",
+    "Publisher": "Prentice Hall",
+    "Year": 2016,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 78,
+    "Title": "Clean Architecture",
+    "Publisher": "Pearson",
+    "Year": 2018,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 79,
+    "Title": "Clean Code A Handbook of Agile Software Craftsmanship",
+    "Publisher": "Prentice Hall",
+    "Year": 2009,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 80,
+    "Title": "Clean Code in C#",
+    "Publisher": "Packt",
+    "Year": 2009,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 80,
+    "Title": "Coder proprement",
+    "Publisher": "Pearson",
+    "Year": 2009,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 81,
+    "Title": "Design Patterns in C#",
+    "Publisher": "Dmitri Nesteruk",
+    "Year": 2020,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 82,
+    "Title": "Hands-On Software Architecture with C# 8 and .NET Core 3",
+    "Publisher": "Packt",
+    "Year": 2019,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 83,
+    "Title": "Hands-On Design Patterns with C# and .NET Core",
+    "Publisher": "Packt",
+    "Year": 2019,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 84,
+    "Title": "Patterns of Enterprise Application Architecture",
+    "Publisher": "Addison-Wesley",
+    "Year": 2003,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 85,
+    "Title": "Agile Principles, Patterns, and Practices in C#",
+    "Publisher": "Prentice Hall",
+    "Year": 2006,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 86,
+    "Title": "Clean Agile Back to Basics",
+    "Publisher": "Addison-Wesley",
+    "Year": 2019,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 87,
+    "Title": "Simple and Efficient Programming with C#: Skills to Build Applications with Visual Studio and .NET",
+    "Publisher": "APress",
+    "Year": 2021,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 88,
+    "Title": "The Clean Coder A CODE OF CONDUCT FOR PROFESSIONAL PROGRAMMERS",
+    "Publisher": "Pearson",
+    "Year": 2011,
+    "Subject": "Clean Code"
+  },
+  {
+    "ID": 89,
+    "Title": "Adaptive Code via C#: Agile coding with design patterns and SOLID principles",
+    "Publisher": "MsPress",
+    "Year": 2014,
+    "Subject": "Clean Code"
   }
 ]
